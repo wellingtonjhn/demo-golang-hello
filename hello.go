@@ -6,6 +6,9 @@ import (
 
 func main() {
 
-	fmt.Println("Hello World! =)")
+	//var hello string = "Hello World! =)"
+	//var hello = "Hello World! =)"
+	hello := "Hello World! =)"
+	fmt.Println(hello)
 
 }
